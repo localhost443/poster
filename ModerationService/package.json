@@ -1,0 +1,24 @@
+{
+  "name": "commentsmoderation",
+  "version": "0.0.4",
+  "description": "A service to Moderate comments that created by users",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "moderate",
+    "nodejs",
+    "microservice",
+    "express",
+    "study"
+  ],
+  "author": "localhost443",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

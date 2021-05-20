@@ -1,0 +1,25 @@
+{
+  "name": "postcomments",
+  "version": "0.0.3",
+  "description": "A microservice part that will put Posts and Comments together to serve them when needed ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "microservice",
+    "posts",
+    "comments",
+    "study",
+    "nodejs",
+    "express"
+  ],
+  "author": "localhost443",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

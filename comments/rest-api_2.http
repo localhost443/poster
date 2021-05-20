@@ -1,0 +1,27 @@
+### Send POST request with json body
+POST http://localhost:4001/posts/98/comments/
+Content-Type: application/json
+
+{
+  "comment": "2ND comment in same post"
+}
+
+<> 2021-05-16T171734.201.json
+<> 2021-05-16T171713.201.json
+<> 2021-05-16T171656.201.json
+<> 2021-05-16T171502.200.txt
+<> 2021-05-16T171425.200.txt
+<> 2021-05-16T171321.500.html
+<> 2021-05-16T171248.500.html
+<> 2021-05-16T171241.500.html
+<> 2021-05-16T171110.500.html
+<> 2021-05-16T171039.500.html
+<> 2021-05-16T170954.404.html
+
+###
+### Send POST request with json body
+GET http://localhost:4001/posts/99/comments/
+Content-Type: application/json
+
+<> 2021-05-16T171824.200.json
+<> 2021-05-16T171810.200.json

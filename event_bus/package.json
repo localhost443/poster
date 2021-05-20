@@ -1,0 +1,26 @@
+{
+  "name": "event-bus",
+  "version": "0.0.1",
+  "description": "A simple event bus implementation to connect all the events together. Please never use it for production envirnment",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "event",
+    "event-bus",
+    "microservice",
+    "study"
+  ],
+  "author": "Localhost443",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cores": "^0.8.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
